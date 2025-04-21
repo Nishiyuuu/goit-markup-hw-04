@@ -327,14 +327,10 @@ p{
     
 }
 
-.social-media-link:hover{
+.social-media-link:hover,
+.social-media-link:focus{
     background-color: #404bbf;
 }
-
-.social-media-link:focus {
-    background-color: #404bbf;
-}
-
 .social-media-svg{
     fill: #f4f4fd;
 }
