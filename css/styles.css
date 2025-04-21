@@ -322,11 +322,12 @@ p{
     display: flex;
     align-items: center;
     justify-content: center;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    cursor: pointer;
     
 }
 
-.social-media-link:hover,
-.social-media-link:focus{
+.social-media-link:hover, .social-media-link:focus{
     background-color: #404bbf;
 }
 
