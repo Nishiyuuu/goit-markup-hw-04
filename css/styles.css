@@ -327,7 +327,10 @@ p{
     
 }
 
-.social-media-link:hover,
+.social-media-link:hover{
+    background-color: #404bbf;
+}
+
 .social-media-link:focus,
 .social-media-link:active {
     background-color: #404bbf;
