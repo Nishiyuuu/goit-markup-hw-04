@@ -327,7 +327,9 @@ p{
     
 }
 
-.social-media-link:hover, .social-media-link:focus{
+.social-media-link:hover,
+.social-media-link:focus,
+.social-media-link:active {
     background-color: #404bbf;
 }
 
