@@ -331,7 +331,10 @@ p{
     background-color: #404bbf;
 }
 
-.social-media-link:focus,
+.social-media-link:focus {
+    background-color: #404bbf;
+}
+
 .social-media-link:active {
     background-color: #404bbf;
 }
